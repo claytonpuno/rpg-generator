@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rpg-generator/static/css/main.0b32522d.chunk.css",
-    "main.js": "/rpg-generator/static/js/main.b27a6a1f.chunk.js",
-    "main.js.map": "/rpg-generator/static/js/main.b27a6a1f.chunk.js.map",
+    "main.css": "/rpg-generator/static/css/main.2e17c539.chunk.css",
+    "main.js": "/rpg-generator/static/js/main.6937b01c.chunk.js",
+    "main.js.map": "/rpg-generator/static/js/main.6937b01c.chunk.js.map",
     "runtime-main.js": "/rpg-generator/static/js/runtime-main.d1e14dce.js",
     "runtime-main.js.map": "/rpg-generator/static/js/runtime-main.d1e14dce.js.map",
     "static/js/2.f0350789.chunk.js": "/rpg-generator/static/js/2.f0350789.chunk.js",
     "static/js/2.f0350789.chunk.js.map": "/rpg-generator/static/js/2.f0350789.chunk.js.map",
     "index.html": "/rpg-generator/index.html",
-    "precache-manifest.32319b07593dff631f2e291b9ad4536c.js": "/rpg-generator/precache-manifest.32319b07593dff631f2e291b9ad4536c.js",
+    "precache-manifest.b4fa6b96042a08fb5429ed5b51221da1.js": "/rpg-generator/precache-manifest.b4fa6b96042a08fb5429ed5b51221da1.js",
     "service-worker.js": "/rpg-generator/service-worker.js",
-    "static/css/main.0b32522d.chunk.css.map": "/rpg-generator/static/css/main.0b32522d.chunk.css.map",
+    "static/css/main.2e17c539.chunk.css.map": "/rpg-generator/static/css/main.2e17c539.chunk.css.map",
     "static/js/2.f0350789.chunk.js.LICENSE.txt": "/rpg-generator/static/js/2.f0350789.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1e14dce.js",
     "static/js/2.f0350789.chunk.js",
-    "static/css/main.0b32522d.chunk.css",
-    "static/js/main.b27a6a1f.chunk.js"
+    "static/css/main.2e17c539.chunk.css",
+    "static/js/main.6937b01c.chunk.js"
   ]
 }
