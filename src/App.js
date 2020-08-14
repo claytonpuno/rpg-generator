@@ -72,7 +72,7 @@ class App extends Component {
         <Header />
         <div className="wrapper">
           <div className="content">
-            <button onClick={this.handleClick} >Next Game</button>
+            <button onClick={ this.handleClick } >Next Game</button>
             <img
               src={ img }
               style={ img && imgStyle }
@@ -82,12 +82,12 @@ class App extends Component {
               <p><span>Developer:</span> { developer }</p>
               <p><span>Platforms:</span> { platforms }</p>
               <p><span>Released:</span> { released }</p>
-              <button onClick={this.toggleModal}>More Info</button>
+              <button onClick={ this.toggleModal }>More Info</button>
             </div>
             { showModal && 
             <Modal 
-              toggleModal={this.toggleModal} 
-              showInfo={this.state.showGame.info}
+              toggleModal={ this.toggleModal } 
+              showInfo={ this.state.showGame.info }
             /> }
           </div>
           <Footer />
