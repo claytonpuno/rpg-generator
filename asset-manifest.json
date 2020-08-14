@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rpg-generator/static/css/main.c4eace57.chunk.css",
+    "main.css": "/rpg-generator/static/css/main.b4b6bf82.chunk.css",
     "main.js": "/rpg-generator/static/js/main.6937b01c.chunk.js",
     "main.js.map": "/rpg-generator/static/js/main.6937b01c.chunk.js.map",
     "runtime-main.js": "/rpg-generator/static/js/runtime-main.d1e14dce.js",
@@ -8,15 +8,15 @@
     "static/js/2.f0350789.chunk.js": "/rpg-generator/static/js/2.f0350789.chunk.js",
     "static/js/2.f0350789.chunk.js.map": "/rpg-generator/static/js/2.f0350789.chunk.js.map",
     "index.html": "/rpg-generator/index.html",
-    "precache-manifest.96cdfa373484ac5e96dee0a8fddb23f2.js": "/rpg-generator/precache-manifest.96cdfa373484ac5e96dee0a8fddb23f2.js",
+    "precache-manifest.7dbaebfa8ace90d98960967def038ef0.js": "/rpg-generator/precache-manifest.7dbaebfa8ace90d98960967def038ef0.js",
     "service-worker.js": "/rpg-generator/service-worker.js",
-    "static/css/main.c4eace57.chunk.css.map": "/rpg-generator/static/css/main.c4eace57.chunk.css.map",
+    "static/css/main.b4b6bf82.chunk.css.map": "/rpg-generator/static/css/main.b4b6bf82.chunk.css.map",
     "static/js/2.f0350789.chunk.js.LICENSE.txt": "/rpg-generator/static/js/2.f0350789.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1e14dce.js",
     "static/js/2.f0350789.chunk.js",
-    "static/css/main.c4eace57.chunk.css",
+    "static/css/main.b4b6bf82.chunk.css",
     "static/js/main.6937b01c.chunk.js"
   ]
 }
